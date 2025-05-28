@@ -1,0 +1,37 @@
+Script do Banco de Dados :
+drop database nutricao;
+create  database nutricao;
+use nutricao;
+
+drop table cadastro;
+create table cadastro (
+  id int(11) NOT NULL primary key auto_increment,
+  Nome varchar(255) DEFAULT NULL,
+  Sobrenome varchar(255) DEFAULT NULL,
+  Email varchar(200) DEFAULT NULL,
+  Senha varchar(255) DEFAULT NULL
+) ENGINE=InnoDB;
+
+select * from cadastro;
+INSERT INTO cadastro (nome, sobrenome, email, senha)
+VALUES ('Wesley', 'Silva', 'wesley.silva@email.com', 'Senha123');
+select * from cadastro;
+ALTER USER 'root'@'localhost' IDENTIFIED BY '';
+FLUSH PRIVILEGES;
+
+drop table receitas;
+CREATE TABLE receitas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    categoria VARCHAR(10) NOT NULL,
+    imagem VARCHAR(255),
+    ingredientes TEXT NOT NULL,
+    modo_preparo TEXT NOT NULL,
+    observacoes TEXT
+);
+select * from receitas;
+
+insert into receitas (nome,ingredientes,modo_preparo,observacoes) values("Brigadeiro", "chocolate,leite", "fogao", "n deixe queimar");
+
+
+;

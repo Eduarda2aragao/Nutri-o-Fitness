@@ -1,0 +1,18 @@
+{"data":"21\/04\/2025 23:09:51","nome":"Eduarda","avaliacao":3,"nivel":"Bom","comentario":"Organizado"}
+{"data":"21\/04\/2025 23:12:29","nome":"Eduarda","avaliacao":3,"nivel":"Bom","comentario":"organizado"}
+{"data":"21\/04\/2025 23:13:26","nome":"Eduarda","avaliacao":3,"nivel":"Bom","comentario":"organizado"}
+{"data":"21\/04\/2025 23:13:35","nome":"Eduarda","avaliacao":3,"nivel":"Bom","comentario":""}
+{"data":"21\/04\/2025 23:19:04","nome":"Eduarda","avaliacao":4,"nivel":"\u00d3timo","comentario":"oi"}
+{"data":"21\/04\/2025 23:20:23","nome":"Ana","avaliacao":4,"nivel":"\u00d3timo","comentario":""}
+{"data":"24\/04\/2025 21:12:25","nome":"Eduarda","avaliacao":2,"nivel":"Regular","comentario":""}
+{"data":"24\/04\/2025 23:43:37","nome":"judite","avaliacao":4,"nivel":"\u00d3timo","comentario":""}
+{"data":"25\/04\/2025 01:07:15","nome":"Wesley","avaliacao":5,"nivel":"Excelente","comentario":"Experimentei  o bolo de caneca e estava centilante"}
+{"data":"25\/04\/2025 13:22:54","nome":"Isaac","avaliacao":5,"nivel":"Excelente","comentario":""}
+{"data":"25\/04\/2025 14:23:30","nome":"Thais","avaliacao":5,"nivel":"Excelente","comentario":""}
+{"data":"03\/05\/2025 01:09:31","nome":"Andre","avaliacao":2,"nivel":"Regular","comentario":""}
+{"data":"03\/05\/2025 01:38:41","nome":"Eduarda","avaliacao":3,"nivel":"Bom","comentario":""}
+{"data":"04\/05\/2025 23:28:45","nome":"Wesley","avaliacao":4,"nivel":"\u00d3timo","comentario":""}
+{"data":"07\/05\/2025 20:51:55","nome":"","avaliacao":3,"nivel":"Bom","comentario":""}
+{"data":"24\/05\/2025 20:32:10","nome":"Eduarda","avaliacao":4,"nivel":"\u00d3timo","comentario":"Amei tudo"}
+{"data":"24\/05\/2025 20:37:01","nome":"Eduarda","avaliacao":4,"nivel":"\u00d3timo","comentario":"Amei todas"}
+{"data":"24\/05\/2025 20:44:57","nome":"Eduarda","avaliacao":4,"nivel":"\u00d3timo","comentario":"Amei todas"}
