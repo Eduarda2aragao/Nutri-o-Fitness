@@ -22,7 +22,7 @@
 ### 📘 E-book Gratuito
 - Acesso a um **e-book exclusivo** com dicas e receitas adicionais.
 
-### ❓ Dúvidas Frequentes
+### 💬 Dúvidas Frequentes
 - Seção com as principais perguntas respondidas.
 - Suporte direto via **WhatsApp** integrado.
 
